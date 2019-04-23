@@ -4,11 +4,11 @@ nav:
     - General: 
         - Home: index.md
     - Minecraft:
-        - Home: mc/index.md
+        - Home: minecraft/index.md
         - SkyFactory4:
-            - General: mc/sf4/index.md
-            - Real Filing Cabinet: mc/sf4/real-filing-cabinet.md
-            - Weirding Gadget: mc/sf4/weirding-gadget.md
+            - General: minecraft/sky-factory-4/index.md
+            - Real Filing Cabinet: minecraft/sky-factory-4/real-filing-cabinet.md
+            - Weirding Gadget: minecraft/sky-factory-4/weirding-gadget.md
 
 theme: 
     name: 'material'
