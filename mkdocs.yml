@@ -5,7 +5,7 @@ nav:
         - Home: index.md
     - Minecraft:
         - Home: minecraft/index.md
-        - SkyFactory4:
+        - Sky Factory 4:
             - General: minecraft/sky-factory-4/index.md
             - Parabox: minecraft/sky-factory-4/parabox.md
             - Real Filing Cabinet: minecraft/sky-factory-4/real-filing-cabinet.md
