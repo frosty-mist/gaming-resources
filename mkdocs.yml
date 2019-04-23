@@ -7,6 +7,7 @@ nav:
         - Home: minecraft/index.md
         - SkyFactory4:
             - General: minecraft/sky-factory-4/index.md
+            - Parabox: minecraft/sky-factory-4/parabox.md
             - Real Filing Cabinet: minecraft/sky-factory-4/real-filing-cabinet.md
             - Weirding Gadget: minecraft/sky-factory-4/weirding-gadget.md
 
