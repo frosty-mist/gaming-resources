@@ -1,4 +1,4 @@
-site_name: Knights of the Wombat
+site_name: Frosty Mist
 
 nav:
     - General: 
@@ -49,4 +49,4 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-repo_url: 'https://github.com/knightsofthewombat/gaming-resources'
+repo_url: 'https://github.com/frosty-mist/gaming-resources'
